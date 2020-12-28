@@ -7,9 +7,7 @@ Tagging
 An application used to shows the group of words from the backend.
 
 
-#### Example:
 
-This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress.
 
 ## Installation and Setup Instructions
 
